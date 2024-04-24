@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713983720/ei/iPwoZoGENZHksfIPmsy7yAI/ip/52.159.142.104/id/kiZwTFJUU58.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-n4v7sns7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fz-Ca0iphWscVUY0acSM1EqiS7Znawe2XZ-dfdibEtnWO4e2ogU-IZN1/vprv/1/playlist_type/DVR/mh/GM/mm/44/mn/sn-n4v7sns7/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/mt/1713961619/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgWd1JKEu4S9WihgIdv2SwhhitIjye4FHEuwg66EvjsCsCIQDXHaARBo1nbI2zJXfQ7tFRXln8pLOVfWkCrKtm5UnyfA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAMvVitUQktxcAIkCx6lJdBc192v6uJHssTFlksEcCnpsAiAgHT63tTkvf8aoUqBpQpfeI_62CG-V4WLpHtuDflw0aw%3D%3D/playlist/index.m3u8
